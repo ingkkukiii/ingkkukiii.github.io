@@ -5,8 +5,8 @@ FW Developer
 Enjoy Eating🍚, Crossfit🏃‍♂️
 
 <img src="https://d1fdloi71mui9q.cloudfront.net/L7XTLaP9TdOWjPiYm7Y9_7k1W2VZ9XA1t7lvD" width="370" height="370">
-| :----------------------------------------------------------- |
 
+------
 ### Work Experience
 
 - Movon INC. (2022.09 ~ )
